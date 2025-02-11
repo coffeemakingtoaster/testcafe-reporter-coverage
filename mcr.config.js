@@ -14,5 +14,6 @@ module.exports = {
         '**/*.js': true
     },
 
-    outputDir: './coverage-reports'
+    outputDir: './coverage-reports',
+    logging: 'debug',
 };
